@@ -123,7 +123,7 @@
                             <arguments>
                                 <argument>-O</argument>
                                 <argument>${project.build.directory}/dbip-city-latest.csv.gz</argument>
-                                <argument>http://download.db-ip.com/free/dbip-city-2015-09.csv.gz</argument>
+                                <argument>http://download.db-ip.com/free/dbip-city-2017-06.csv.gz</argument>
                             </arguments>
                         </configuration>
                     </execution>
